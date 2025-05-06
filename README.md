@@ -4,7 +4,7 @@ This repository includes a Mathematica notebook with symbolic computations compl
 
 Copyright (c) 2024 Sergio López-Ureña
 
-[1] Sergio López-Ureña (2024). Activation functions enabling the addition of neurons and layers without altering outcomes. arXiV...
+[1] LÓPEZ-UREÑA, Sergio. Activation functions enabling the addition of neurons and layers without altering outcomes. Journal of Computational and Applied Mathematics, 2025, vol. 470, p. 116730. LÓPEZ-UREÑA, Sergio. Activation functions enabling the addition of neurons and layers without altering outcomes. Journal of Computational and Applied Mathematics, 2025, vol. 470, p. 116730.
 
 Abstract:
 In this work, we propose activation functions for neuronal networks that are refinable and sum the identity. This new class of activation function allows the insertion of new layers between existing ones and/or the increase of neurons in a layer, both without altering the network outputs.
